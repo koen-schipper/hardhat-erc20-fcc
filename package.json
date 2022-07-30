@@ -1,5 +1,9 @@
 {
+  "author": "Koen Schipper",
+  "description": "Manual Sample ERC20 Token",
+  "license": "MIT",
   "devDependencies": {
+    "@openzeppelin/contracts": "^4.7.2",
     "hardhat": "^2.10.1"
   }
 }
